@@ -1,0 +1,11 @@
+K:\V projects\arrays\arrays\bin\Debug\netcoreapp2.0\arrays.deps.json
+K:\V projects\arrays\arrays\bin\Debug\netcoreapp2.0\arrays.runtimeconfig.json
+K:\V projects\arrays\arrays\bin\Debug\netcoreapp2.0\arrays.runtimeconfig.dev.json
+K:\V projects\arrays\arrays\bin\Debug\netcoreapp2.0\arrays.dll
+K:\V projects\arrays\arrays\bin\Debug\netcoreapp2.0\arrays.pdb
+K:\V projects\arrays\arrays\obj\Debug\netcoreapp2.0\arrays.csprojResolveAssemblyReference.cache
+K:\V projects\arrays\arrays\obj\Debug\netcoreapp2.0\arrays.csproj.CoreCompileInputs.cache
+K:\V projects\arrays\arrays\obj\Debug\netcoreapp2.0\arrays.AssemblyInfoInputs.cache
+K:\V projects\arrays\arrays\obj\Debug\netcoreapp2.0\arrays.AssemblyInfo.cs
+K:\V projects\arrays\arrays\obj\Debug\netcoreapp2.0\arrays.dll
+K:\V projects\arrays\arrays\obj\Debug\netcoreapp2.0\arrays.pdb
